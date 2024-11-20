@@ -1,12 +1,30 @@
-**Dubbakashivareddy/Dubbakashivareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Shiva Reddy Dubbaka, a passionate Computer Science graduate student at the University of Missouri-Kansas City. With a strong foundation in Computer Science and Engineering, I'm driven to solve real-world problems using cutting-edge technologies.
 
-Here are some ideas to get you started:
+🌟 Areas of Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🐍 Python | 📊 Pandas | 📈 NumPy | 🤖 Scikit-learn | 🌐 Django | ☕ Java | 🐘 PHP | 🔤 C | 📄 HTML/CSS | ✨ JavaScript | 🛢️ SQL
+📚🤖 Machine Learning | ☁️ AWS | ☁️ GCP | 🔧 Git | 🟢 Node.js | ♻️ AngularJS
+
+Certifications:
+Microsoft Azure Developer Associate (AZ-204)
+Microsoft Azure AI Fundamentals (AI-900)
+Aviatrix Multi-Cloud Certification
+Robotic Process Automation (AICTE)
+🚀 Experience Highlights:
+
+Worked on Automatic e-Government Services using Machine Learning during an internship at Lineysha and Thevan Software Technologies.
+Developed a Student Management System using PHP as a Microsoft Student Ambassador.
+💡 Projects:
+
+Deep Fake Detection Using CNN: Implemented a model to detect fake images using gesture and facial expression analysis.
+Nine Men Morris Game: Designed and developed a Python-based game with multiple modes (AI vs. Human, Human vs. Human, AI vs. AI).
+Publicity and Marketing Management System: Built a full-stack Python web application for advertising and marketing gaming products.
+📘 Education:
+
+MSc in Computer Science (Ongoing) at the University of Missouri-Kansas City (CGPA: 3.456)
+BTech in Computer Science from Koneru Lakshmaiah Education Foundation (CGPA: 8.4)
+🌱 I’m constantly learning and exploring new technologies to stay at the forefront of innovation. Let’s connect and collaborate!
+
+📫 Feel free to reach out:
+
+Email: shivareddydubbaka85@gmail.com
