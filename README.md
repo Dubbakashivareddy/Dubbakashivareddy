@@ -5,26 +5,23 @@
 🐍 Python | 📊 Pandas | 📈 NumPy | 🤖 Scikit-learn | 🌐 Django | ☕ Java | 🐘 PHP | 🔤 C | 📄 HTML/CSS | ✨ JavaScript | 🛢️ SQL
 📚🤖 Machine Learning | ☁️ AWS | ☁️ GCP | 🔧 Git | 🟢 Node.js | ♻️ AngularJS
 
-Certifications:
-Microsoft Azure Developer Associate (AZ-204)
-Microsoft Azure AI Fundamentals (AI-900)
-Aviatrix Multi-Cloud Certification
-Robotic Process Automation (AICTE)
-🚀 Experience Highlights:
+🎓 Certifications
+📘 Microsoft Azure Developer Associate (AZ-204)
+🤖 Microsoft Azure AI Fundamentals (AI-900)
+☁️ Aviatrix Multi-Cloud Certification
+🤖 Robotic Process Automation (AICTE)
 
-Worked on Automatic e-Government Services using Machine Learning during an internship at Lineysha and Thevan Software Technologies.
-Developed a Student Management System using PHP as a Microsoft Student Ambassador.
-💡 Projects:
+🚀 Experience Highlights
+💻 Worked on Automatic e-Government Services using Machine Learning during an internship at Lineysha and Thevan Software Technologies.
+👨‍🏫 Developed a Student Management System using PHP as a Microsoft Student Ambassador.
 
-Deep Fake Detection Using CNN: Implemented a model to detect fake images using gesture and facial expression analysis.
-Nine Men Morris Game: Designed and developed a Python-based game with multiple modes (AI vs. Human, Human vs. Human, AI vs. AI).
-Publicity and Marketing Management System: Built a full-stack Python web application for advertising and marketing gaming products.
-📘 Education:
+💡 Projects
+🔍 Deep Fake Detection Using CNN: Implemented a model to detect fake images using gesture and facial expression analysis.
+🎮 Nine Men Morris Game: Designed and developed a Python-based game with multiple modes (AI vs. Human, Human vs. Human, AI vs. AI).
+🌐 Publicity and Marketing Management System: Built a full-stack Python web application for advertising and marketing gaming products.
 
-MSc in Computer Science (Ongoing) at the University of Missouri-Kansas City (CGPA: 3.456)
-BTech in Computer Science from Koneru Lakshmaiah Education Foundation (CGPA: 8.4)
-🌱 I’m constantly learning and exploring new technologies to stay at the forefront of innovation. Let’s connect and collaborate!
+📘 Education
+🎓 MSc in Computer Science (Ongoing) at University of Missouri-Kansas City (CGPA: 3.456)
+🎓 BTech in Computer Science from Koneru Lakshmaiah Education Foundation (CGPA: 8.4)
 
-📫 Feel free to reach out:
 
-Email: shivareddydubbaka85@gmail.com
