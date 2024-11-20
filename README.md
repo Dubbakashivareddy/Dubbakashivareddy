@@ -3,8 +3,9 @@ I'm *Shiva Reddy Dubbaka, a passionate **Computer Science* graduate student at t
 
 
 ### 🌟 *Areas of Expertise*
-- 🖥 *Programming Languages*: Python (🐍 Pandas, NumPy, Scikit-learn, Django), Java ☕, PHP 🖋, C ⚙, HTML/CSS 🏗, JavaScript 🌐, SQL 🗄  
-- 🤖 *Technologies*: Machine Learning, AWS ☁, GCP 🌍, Git 📂, Node.js 🛠, AngularJS 🌀  
+- 🖥 *Programming Languages*: Python (🐍 Pandas, NumPy, Scikit-learn, Django), Java ☕, PHP 🖋, C ⚙, HTML/CSS 🏗, JavaScript 🌐, SQL 🗄  Machine Learning, AWS ☁, GCP 🌍, Git 📂, Node.js 🛠, AngularJS 🌀  🕵️‍♂️ Digital Forensics
+
+  
 - 🏅 *Certifications*:  
   - Microsoft Azure Developer Associate (AZ-204) 🌐  
   - Microsoft Azure AI Fundamentals (AI-900) 🤖  
